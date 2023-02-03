@@ -14,7 +14,6 @@ public class corporateUserRegisterationService implements RegisterationService {
     public Boolean registerUser(String name, String plan, Integer number) {
         corporateUser.createUser(name,plan,number);
         return corporateUser.saveUserDetails();
-
     }
 
     @Override

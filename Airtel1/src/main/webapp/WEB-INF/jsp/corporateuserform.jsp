@@ -3,7 +3,6 @@
 <h1>
     welcome to corporate details page for signup
 </h1>
-<%--@elvariable id="corporate" type=""--%>
 <form:form action="corporateregister" modelAttribute="corporate">
     Name:<form:input path="name"/>
     <br/>
