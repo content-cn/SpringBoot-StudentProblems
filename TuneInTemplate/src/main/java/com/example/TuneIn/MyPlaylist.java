@@ -1,4 +1,4 @@
-package com.example.TastyTrove;
+package com.example.TuneIn;
 
 /*
  * 1. Add class attributes.
@@ -6,6 +6,6 @@ package com.example.TastyTrove;
  * 3. Implement setter injection
  */
 
-public class NorthIndian implements Recipe {
+public class MyPlaylist implements Playlist {
 
 }
